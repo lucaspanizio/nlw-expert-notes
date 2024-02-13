@@ -15,30 +15,48 @@
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licença">Licença</a>
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#--layout">📝 Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-pré-requisitos">☝ Pré-Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-executar">⚡ Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">📜 Licença</a>
+  <br><br>
+  <img src="https://github.com/lucaspanizio/nlw-expert-notes/assets/32407181/d30d8507-2327-4c0d-b495-e9f19190783a" alt="Banner Projeto NLW Expert Notes" title="Banner Projeto NLW Expert Notes">  
 </p>
-
-<img src="https://github.com/lucaspanizio/nlw-expert-notes/assets/32407181/d30d8507-2327-4c0d-b495-e9f19190783a)" alt="Banner Projeto NLW Expert Notes" title="Banner Projeto NLW Expert Notes">
-<br><br>
-
-<!-- 
-## 💻 Projeto
--->
+<br>
 
 ## 🚀 Tecnologias
 <div>
-  <code><img height="25px" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35" alt="Vite" /> Vite</code>
-  <code><img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"> JavaScript</code>
-  <code><img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"> React</code>
-  <code><img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"> TypeScript </code>
-  <code><img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="TailWind"> TailWindCSS </code>
-  <code><img height="25px" src="https://images.opencollective.com/lucide-icons/9fe79a6/logo/256.png" alt="Lucide"> Lucide</code>
-  <code><img height="25px" src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI"> Radix UI</code> 
-  <code><img height="25px" src="https://i.postimg.cc/h42nSbgv/speech-recognition-logo3.png" alt="TailWind"> SpeechRecognition API</code> 
-  <code><img height="25px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code"> VS Code</code>  
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=Typescript&logoColor=%23fff" alt="Typescript"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>  
+  </a>
+   <a href="https://vitejs.dev/" target="_blank">
+     <img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=%23ffc720" alt="Vite"/>  
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://img.shields.io/badge/Node.JS-%238cbf3e?style=for-the-badge&logo=node.js&logoColor=%2345453b" alt="Node.js"/>
+  </a> 
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm" alt="NPM"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWindCSS"> 
+  </a>
+   <a href="https://lucide.dev/" target="_blank">
+     <img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Lucide UI"/>  
+  </a>
+  <a href="https://lucide.dev/" target="_blank">
+     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>  
+  </a>  
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode" alt="VS Code"/>
+  </a> 
 </div>
 <br>
 
@@ -46,6 +64,11 @@
 <img src="https://github.com/lucaspanizio/nlw-expert-notes/assets/32407181/fdce046a-5626-4793-9bdd-67ee14a8d87e" alt="NLW Expert Notes" tittle="Web" width="800">
 <p>Veja detalhes do design do <a href="href="https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes">projeto no Figma</a></p>
 <br>
+
+## ☝ Pré-Requisitos
+
+É necessário instalar o <a href="https://nodejs.org/en">Node.js</a> previamente.
+<br><br>
 
 ## ⚡ Como executar 
 
@@ -84,20 +107,13 @@ Acesse http://localhost:5173 para visualizar a aplicação.
 <br> 
 -->
 
-<!-- Licenças -->
-##  📝 Licença
-Esse projeto está sob a licença MIT. </br></br>
-<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000"> 
+## 📜 Licença
 
-<!--
-## Autor
-<img
-style="border-radius: 50%;"
-src="https://avatars.githubusercontent.com/lucaspanizio"
-width="100px;"
-title="Foto de José Lucas Panizio"
-alt="Foto de José Lucas Panizio"
-/>
--->
+<p>Esse projeto está sob a <a href="https://github.com/lucaspanizio/nlw-expert-notes/blob/main/LICENSE">licença MIT</a>.<br>
+<img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-Feito por José Lucas Panizio
+#### Desenvolvido por José Lucas Panizio 🖖
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucaspanizio/)](https://www.linkedin.com/in/lucaspanizio/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&labelColor=ff0000&logo=gmail&logoColor=white&link=mailto:lucaspanizio@gmail.com)](mailto:lucaspanizio@gmail.com)
