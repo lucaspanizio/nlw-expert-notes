@@ -7,7 +7,7 @@
 -->
 
 <div>
-  <img src="https://i.postimg.cc/m2pHLtyQ/nlw-expert.png" alt="Logo NLW SpaceTime" tittle="Logo NLW Expert" width="180" align="right">
+  <img src="https://i.postimg.cc/m2pHLtyQ/nlw-expert.png" alt="Logo NLW Expert" tittle="Logo NLW Expert" width="180" align="right">
   <h1 align="left">Expert Notes</h1>
 </div>
 <p align="left">
@@ -27,22 +27,17 @@
 
 ## 🚀 Tecnologias
 <div>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/Typescript-%233178C6?style=for-the-badge&logo=Typescript&logoColor=%23fff" alt="Typescript"/></a>
   <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
   <a href="https://vitejs.dev/" target="_blank"><img src="https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=%23ffc720" alt="Vite"/></a>
-  <a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.JS-%238cbf3e?style=for-the-badge&logo=node.js&logoColor=%2345453b" alt="Node.js"/></a> 
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/NPM-%23CB3837?style=for-the-badge&logo=npm" alt="NPM"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWindCSS"></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind CSS"></a>
   <a href="https://lucide.dev/" target="_blank"><img src="https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white" alt="Lucide UI"/></a>
-  <a href="https://lucide.dev/" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>  
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=visualstudiocode" alt="VS Code"/></a> 
 </div>
 <br>
 
 ## 🎨 Layout
 <img src="https://github.com/lucaspanizio/nlw-expert-notes/assets/32407181/fdce046a-5626-4793-9bdd-67ee14a8d87e" alt="NLW Expert Notes" tittle="Web" width="800">
-<p>Veja detalhes do design do <a href="href="https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes">projeto no Figma</a></p>
+<p>Veja detalhes do design do <a href="https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes">projeto no Figma</a></p>
 <br>
 
 ## ☝ Pré-Requisitos
