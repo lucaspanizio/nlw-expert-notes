@@ -36,7 +36,7 @@
 <br>
 
 ## 🎨 Layout
-<img src="https://github.com/lucaspanizio/nlw-expert-notes/assets/32407181/fdce046a-5626-4793-9bdd-67ee14a8d87e" alt="NLW Expert Notes" tittle="Web" width="800">
+<img src="https://github.com/lucaspanizio/nlw-expert-notes/assets/32407181/fdce046a-5626-4793-9bdd-67ee14a8d87e" alt="NLW Expert Notes" tittle="Web">
 <p>Veja detalhes do design do <a href="https://www.figma.com/community/file/1336456128647909148/nlw-expert-notes">projeto no Figma</a></p>
 <br>
 
